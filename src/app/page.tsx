@@ -9,7 +9,7 @@ function App() {
   // Step 2: Do tasks
   // Step 3: Commit your changes using appropriate commit message
   // Step 4: Push your changes to the remote repository
-  // Step 5: Create a pull request
+  // Step 5: Create a pull request using your full name as a title
 
   // Bonus:
   // - Add the type of items state
