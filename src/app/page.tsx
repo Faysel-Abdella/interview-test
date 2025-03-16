@@ -12,6 +12,10 @@ function App() {
     // ...
   };
 
+  // Bonus:
+  // - Add the type of items state
+  // - Make this root page server-side component
+
   return (
     <div className="text-center mx-auto p-4">
       <h1 className="text-3xl font-semibold mb-4">Simple CRUD Application</h1>
@@ -28,7 +32,3 @@ function App() {
 }
 
 export default App;
-
-// Bonus:
-// - Add the type of items state
-// - Make this root page server-side component
